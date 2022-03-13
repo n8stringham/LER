@@ -1,0 +1,10 @@
+data/gold/711_allan_quatermain_brat.tsv
+data/gold/730_oliver_twist_brat.tsv
+data/gold/73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat.tsv
+data/gold/74_the_adventures_of_tom_sawyer_brat.tsv
+data/gold/766_david_copperfield_brat.tsv
+data/gold/768_wuthering_heights_brat.tsv
+data/gold/76_adventures_of_huckleberry_finn_brat.tsv
+data/gold/77_the_house_of_the_seven_gables_brat.tsv
+data/gold/78_tarzan_of_the_apes_brat.tsv
+data/gold/805_this_side_of_paradise_brat.tsv

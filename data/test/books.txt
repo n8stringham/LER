@@ -1,0 +1,10 @@
+data/gold/829_gullivers_travels_into_several_remote_nations_of_the_world_brat.tsv
+data/gold/84_frankenstein_or_the_modern_prometheus_brat.tsv
+data/gold/876_life_in_the_ironmills_or_the_korl_woman_brat.tsv
+data/gold/8867_the_magnificent_ambersons_brat.tsv
+data/gold/932_the_fall_of_the_house_of_usher_brat.tsv
+data/gold/940_the_last_of_the_mohicans_a_narrative_of_1757_brat.tsv
+data/gold/95_the_prisoner_of_zenda_brat.tsv
+data/gold/969_the_tenant_of_wildfell_hall_brat.tsv
+data/gold/974_the_secret_agent_a_simple_tale_brat.tsv
+data/gold/9830_the_beautiful_and_damned_brat.tsv
